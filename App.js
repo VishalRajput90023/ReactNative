@@ -4,7 +4,7 @@ import { Text } from 'react-native';
 export default class App extends Component {
   render() {
     return (
-      <Text>Hello world!</Text>
+      <Text>ThinkX</Text>
     );
   }
 }
